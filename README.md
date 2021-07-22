@@ -29,7 +29,8 @@ mkvirtualenv <venv_name>
  
 ### To list all the available virtual env created using virtualenvwrapper-win in the system    
 workon
-  
+
+### To deactivate
 deactivate
 
 ### To activate an environment  
