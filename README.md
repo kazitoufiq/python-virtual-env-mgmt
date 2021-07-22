@@ -37,3 +37,15 @@ deactivate
 workon <venv_name>
   
 
+
+
+### Use VIRTUAL ENV with Jupyter notebook within VS CODE
+
+1) Press Command+Shift+P to open a new command pallete
+
+2) Type >Python: Select Intepreter to start jupyter notebook server
+
+3) Open the notebook again
+
+
+
