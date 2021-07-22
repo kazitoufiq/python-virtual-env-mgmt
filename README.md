@@ -27,7 +27,7 @@ pip install virtualenvwrapper-win
 ### To create a virtual env in a centralized directory
 mkvirtualenv <venv_name>           
  
-### To list all the available virtual env created using virtualenvwrapper-win in the system    
+### To list all the available virtual envs created using virtualenvwrapper-win in the system    
 workon
 
 ### To deactivate
