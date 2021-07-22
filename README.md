@@ -20,7 +20,7 @@ virtualenv <venv_name>
 source <venv_name>/bin/activate
 
 
-## using virtualenvwrapper-win
+## Using virtualenvwrapper-win
 
 pip install virtualenvwrapper-win
 
