@@ -23,6 +23,7 @@ source <venv_name>/bin/activate
 ## using virtualenvwrapper-win
 
 pip install virtualenvwrapper-win
+
 mkvirtualenv <env-name>             //will create a virtual env in a centralized directory
   
 workon // to list all the available virtual env created using virtualenvwrapper-win in the system   
